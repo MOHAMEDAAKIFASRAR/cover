@@ -1,5 +1,6 @@
 # Ex.06 Book Front Cover Page Design
 ## Name : MOHAMED AAKIF ASRAR S
+## DATE : 13-11-2024
 ## Register No : 212223240088
 
 ## AIM:
